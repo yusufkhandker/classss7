@@ -1,0 +1,64 @@
+
+.header {
+	background-color: white;
+	
+}
+
+.container{
+	margin: 0 auto;
+	width: 90%;
+	overflow: hidden;
+}
+
+.logo{
+	width: 25%;
+	float: left;
+	padding: 20px;
+
+
+}
+.menu{
+	width: 60%;
+	float: right;
+	
+
+
+
+
+}
+.menu ul{ 
+ }
+.menu ul a:hover{
+	color: #E14213;
+}
+.menu ul a{
+	text-decoration: none;
+	color: black;
+	float: left;
+    padding: 26px 12px;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+
+  .banner{
+  	background-image: url(images/home.jpg);
+  	min-height: 500px;
+  	background-size: cover;
+  }
+
+  .banner_contain{
+  	padding: 100px 33px;
+  	font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+
+  }
+
+  .back{background-color: rgba(133, 230, 182, 0.43);
+
+  	width: 450px;
+  	transition-property: 20%;
+
+
+
+  }
